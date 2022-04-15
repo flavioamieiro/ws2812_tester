@@ -1,0 +1,20 @@
+(kicad_sch (version 20220331) (generator eeschema)
+
+  (uuid f93d2d9a-5fa0-4932-9f53-dcf5e8f7b4d1)
+
+  (paper "A4")
+
+  (title_block
+    (title "ws2812 tester")
+    (rev "0.1")
+    (company "Flávio Amieiro")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
