@@ -1,0 +1,8 @@
+*.pyc
+*.sw[po]
+*.zip
+README.html
+*-bak
+*-cache.lib
+fp-info-cache
+Gerber/
