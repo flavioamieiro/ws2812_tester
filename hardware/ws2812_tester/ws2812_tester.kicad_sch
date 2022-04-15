@@ -1855,37 +1855,37 @@
       (reference "#PWR016") (unit 1) (value "VCC") (footprint "")
     )
     (path "/c8528ca8-6e6e-4357-91c2-1ebe0951296b"
-      (reference "C1") (unit 1) (value "1µF") (footprint "")
+      (reference "C1") (unit 1) (value "1µF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/9497e183-8ac3-4ac8-a1db-65f80c388e9d"
-      (reference "C2") (unit 1) (value "100nF") (footprint "")
+      (reference "C2") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/d195a235-9f17-4442-9359-137c433af93b"
-      (reference "F1") (unit 1) (value "1A") (footprint "")
+      (reference "F1") (unit 1) (value "1A") (footprint "ws2812_tester:Belfuse_0ZCJ")
     )
     (path "/be846e26-1d1f-45c3-9c1e-395a22a5dc2e"
       (reference "J1") (unit 1) (value "USB_C_DEALON-USB-US31-106") (footprint "ws2812_tester:DEALON_USB-US31-106")
     )
     (path "/707c394d-db2e-47f9-bba6-f31a121e57f6"
-      (reference "J2") (unit 1) (value "Pins_1-4") (footprint "")
+      (reference "J2") (unit 1) (value "Pins_1-4") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/32b9869b-bdbe-4ae9-93a7-26144978f850"
-      (reference "J3") (unit 1) (value "Conn_01x03") (footprint "")
+      (reference "J3") (unit 1) (value "Conn_01x03") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal")
     )
     (path "/50e212d9-955e-4ea7-8eea-f53135f42320"
-      (reference "J4") (unit 1) (value "Pins_5-8") (footprint "")
+      (reference "J4") (unit 1) (value "Pins_5-8") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/c6a4c3e7-fb1f-4276-95ad-3957d665918a"
       (reference "Q1") (unit 1) (value "PMN48XP") (footprint "Package_SO:TSOP-6_1.65x3.05mm_P0.95mm")
     )
     (path "/0ac82abf-d087-4a75-94be-1e036bd2cdb5"
-      (reference "R1") (unit 1) (value "5.1kΩ") (footprint "")
+      (reference "R1") (unit 1) (value "5.1kΩ") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/3adf4c93-8615-4925-855b-8b4187c3436d"
-      (reference "R2") (unit 1) (value "5.1kΩ") (footprint "")
+      (reference "R2") (unit 1) (value "5.1kΩ") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/9cb657be-5a0d-4b9e-a0dc-4bce8cc05dae"
-      (reference "R3") (unit 1) (value "10kΩ") (footprint "")
+      (reference "R3") (unit 1) (value "10kΩ") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/6f196708-b9e6-4165-a918-b3e731da12a5"
       (reference "U1") (unit 1) (value "ATtiny85-20S") (footprint "Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm")
