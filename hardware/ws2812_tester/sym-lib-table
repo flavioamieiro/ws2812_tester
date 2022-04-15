@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ws2812_tester")(type "KiCad")(uri "/home/amieiro/stuff/eletronica/ws2812_tester/hardware/ws2812_tester/ws2812_tester.kicad_sym")(options "")(descr ""))
+)
